@@ -6,8 +6,8 @@ const operaciones = require("./operaciones")
 function parsearTerminos(texto){
    //mock
     return{
-        primerTermino:90,
-segundoTermino:150,
+        primerTermino:225,
+segundoTermino:180,
 operacion:"+",
     };
 }
